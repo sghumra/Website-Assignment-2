@@ -62,3 +62,72 @@ body {
     cursor: pointer;
     margin: 0px 1px;
     font-size: 18px;
+  }
+
+
+  .about_us h4{
+  	padding:0;
+  	margin:0;
+  }
+  .navbar ul li:hover {
+      background: linear-gradient(to bottom, #333333 15%, #505050 50%, #333333 85%);}
+
+  .latest {
+      padding: 10px;
+      font-size: 20px;
+      font-family: calibri;}
+
+  .latest .fa {
+      vertical-align: bottom;
+      padding: 0px 5px;
+      color: #3d8fe8;}
+
+  .animated a {
+      text-decoration: none;
+      color: black;}
+
+  .movies_poster {
+      width: 25%;
+      float: left;
+      margin-bottom: 25px;
+      background: #fff;
+      min-height: 230px;
+      overflow: hidden;
+      font-family: calibri;
+      background: #eee;}
+
+  .movie_title {
+      border: 1px solid #ccc;
+      padding: 20px 15px;
+      text-align: center;
+      font-size: 20px;
+      background: #fff;}
+
+  .movies_photo img {
+      width: 100%;
+      height: auto!important;
+      background-position: 100%;}
+
+  .latest h5{padding: 0px;
+      margin: 0px;}
+
+  .content {
+      padding: 5px;}
+
+  .movies_photo {
+      border-bottom: 3px solid #3d8fe8;}
+
+  .footer_content {
+      width: 50%;
+      float: left}
+
+  .footer_content.right {
+      text-align: right}
+
+  .footer {
+      padding: 30px;
+      color: white;
+      background: linear-gradient(to bottom, #646464 0%, #0e0e0e 100%);
+      font-family: calibri;}
+
+  
