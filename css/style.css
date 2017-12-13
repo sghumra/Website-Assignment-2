@@ -27,7 +27,7 @@ body {
     color: #fff}
 
 .logo a {
-    color: #ffdb58;}
+    color: #f5da2f;}
 
 .clearfix {
     clear: both;}
@@ -44,11 +44,11 @@ body {
     width: 20%;
     float: left;
     text-align: center;
-    font-size: 30px;}
+    font-size: 25px;}
 
 .navbar {
     width: 50%;
-    float: left;
+    float: right;
     padding: 0px 50px;}
 
 .navbar ul {
@@ -56,7 +56,7 @@ body {
 
 .navbar ul li {
     list-style: none;
-    float: left;
+    float: right;
     padding: 10px 15px;
     color: white;
     cursor: pointer;
@@ -212,6 +212,24 @@ body {
     color: white;
 }
 
+.animated {
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.fadeInRight {
+    0% {
+        opacity: 0;
+
+    }
+    100% {
+        opacity: 1;
+
+    }
+}
+
 figure {
   width: 350px;
   background: #ffdb58;
@@ -229,28 +247,10 @@ figcaption {
   transition: all 0.7s;
 }
 
-figure:hover figcaption {
+ figure:hover figcaption {
   transform: translateY(0em);
   background: rgba( 255, 255, 255, .78 );
   opacity: .70;
-}
-
-.animated {
-    -webkit-animation-duration: 5s;
-    animation-duration: 5s;
-    -webkit-animation-fill-mode: both;
-    animation-fill-mode: both;
-}
-
-.fadeInRight {
-    0% {
-        opacity: 0;
-
-    }
-    100% {
-        opacity: 1;
-
-    }
 }
 
 @keyframes fadeInRight {
@@ -314,31 +314,39 @@ figure:hover figcaption {
 		margin:0 auto;
         padding: 10px
     }
-    .navbar{display:none;}
+    .navbar {
+        width: 20%;
+        float: left;
+        padding: 0px 30px;}
 
-    .navbar ul{padding:0}
+    .navbar ul {
+        margin: 0;}
 
-	.navbar {
-        float: none;
-        width: 100%;
-		padding: 0px 11px;
-		margin-top:38px
-
-    }
+}
     .navbar ul li {
-       display: block;
-    width: 100%;
-    float: none;
+        list-style: none;
+        float: left;
+        padding: 5px 10px;
+        color: white;
+        cursor: pointer;
+        margin: 0px 1px;
+        font-size: 18px;
+    }
+  }
 
-}
-}
+    .header_top .fa {
+        display: block;
+        font-size: 30px;
+        float: right;
+        padding: 0px 14px
+    }
     .logo {
-        width: 50%;
+        width: 40%;
         float: left;
         text-align: left;
         padding: 0px 25px
     }
-
+  }
 	.header_top{height:34px}
 
 	.film_review{width:100%;float:none;}
@@ -352,10 +360,5 @@ figure:hover figcaption {
         float: left;
         text-align: left;
         padding: 0px 25px
-    }
-    .search {
-        width: 70%;
-        float: right;
-        text-align: center
     }
 }
