@@ -27,7 +27,7 @@ body {
     color: #fff}
 
 .logo a {
-    color: #f5da2f;}
+    color: #ffdb58;}
 
 .clearfix {
     clear: both;}
@@ -44,7 +44,7 @@ body {
     width: 20%;
     float: left;
     text-align: center;
-    font-size: 25px;}
+    font-size: 30px;}
 
 .navbar {
     width: 50%;
@@ -212,6 +212,29 @@ body {
     color: white;
 }
 
+figure {
+  width: 350px;
+  background: #ffdb58;
+  overflow: hidden;
+}
+
+figcaption {
+  height: 3em;
+  line-height: 1.2em;
+  padding: 0.8em;
+  transform: translateY(4em);
+  background: #fff;
+  background: rgba( 255, 255, 255, 0 );
+  opacity: 0;
+  transition: all 0.7s;
+}
+
+figure:hover figcaption {
+  transform: translateY(0em);
+  background: rgba( 255, 255, 255, .78 );
+  opacity: .70;
+}
+
 .animated {
     -webkit-animation-duration: 5s;
     animation-duration: 5s;
@@ -307,25 +330,15 @@ body {
     width: 100%;
     float: none;
 
-    }
-
-    .header_top .fa {
-        display: block;
-        font-size: 30px;
-        float: right;
-        padding: 0px 14px
-    }
+}
+}
     .logo {
         width: 50%;
         float: left;
         text-align: left;
         padding: 0px 25px
     }
-    .search {
-        width: 50%;
-        float: right;
-        text-align: center
-    }
+
 	.header_top{height:34px}
 
 	.film_review{width:100%;float:none;}
