@@ -20,4 +20,4 @@ I had applied JavaScript differently than I would have usually, after research I
 Design, invision prototype.
 
 User testing?
-For user testing, I had told the respondents to test the website and try give at least one thing that would improve. From here, I had tried to implement these changes to give the best usability within the website.
+For user testing, I had told the made a new page called 'Feedback' and within ths page I had 
