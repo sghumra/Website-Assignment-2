@@ -20,4 +20,4 @@ I had applied JavaScript differently than I would have usually, after research I
 Design, invision prototype.
 
 User testing?
-For user testing, I had told the made a new page called 'Feedback' and within ths page I had 
+For user testing, I had told the made a new page called 'Feedback' and within ths page I had called in a Typeform questionnaire I had created. I had shown the website to 20 people, and at the end of the browsing period I had told them to click the feedback link
