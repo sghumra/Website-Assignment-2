@@ -20,4 +20,10 @@ I had applied JavaScript differently than I would have usually, after research I
 Design, invision prototype.
 
 User testing?
-For user testing, I had told the made a new page called 'Feedback' and within ths page I had called in a Typeform questionnaire I had created. I had shown the website to 20 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of 
+For user testing, I had told the made a new page called 'Feedback' and within ths page I had called in a Typeform questionnaire I had created. I had shown the website to 20 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue I had found out was that the description page has images that have an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user the think it can be clicked, however it was just an ordinary picture with a figcaption. After this feedback, I had removed this effect.
+
+![Code Snippet of effect](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Code snippets/Screen Shot 2017-12-23 at 15.40.04.png)
+
+![Mouse rollover with effect](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-23 at 15.40.41.png)
+
+![Mouse rollover without effect](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-23 at 15.41.34.png)
