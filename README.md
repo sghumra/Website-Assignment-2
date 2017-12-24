@@ -10,6 +10,8 @@
 
 The development process for my website was more of an incremental process as I started the foundation of each website first then implemented a basic CSS to show how everything would layout. After, this I had implemented the design scheme I was going against, since my website was going to be a film review website, I had tried to follow the IMDB colour scheme of yellow and black. The main issue I had encountered was the resizing of the navigation bar when I had shrunk the window or using it on a smaller device. Also, the creating of the navigation bar was quite difficult as I tried to broaden my knowledge and attempted to implement the navigation bar in JavaScript, which seems to have worked. Media breakpoints were confusing to get my head around as I had difficulties trying to implement the correct sizes and keep the lining of the images above each other.
 
+In terms of accessibility, I had used 'alt' tags, this is because if the respective image did have any issues with loading then the description of the alt tag will show. Also, I had given contrast between the background and writing, this makes it easier to the read for the user.
+
 What website is?
 My website is a movie review website, the devlopment of it had gained
 Issues? An issues that was encountered in the testing process was that the navigation bar was not responsive to breakpoints, and when the 
