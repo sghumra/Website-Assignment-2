@@ -1,8 +1,8 @@
 *,
 *:before,
 *:after {
-    box-sizing: border-box;}
-
+    box-sizing: border-box;
+  }
 
 p {
   font-size: 18px;
@@ -14,11 +14,13 @@ body {
     padding: 0;
     margin: 0;
     background: #eee;
-    font-family: calibri}
+    font-family: calibri
+  }
 
 .container {
     width: 960px;
-    margin: 0 auto;}
+    margin: 0 auto;
+  }
 
 .header_top {
     background: #333;
@@ -27,17 +29,21 @@ body {
     color: #fff;
     font: 10pt Verdana, Arial, sans-serif;
     height: 23px;
-    padding: 0;}
+    padding: 0;
+  }
 
 .header a {
     text-decoration: none;
-    color: #fff}
+    color: #fff
+  }
 
 .logo a {
-    color: #f5da2f;}
+    color: #f5da2f;
+  }
 
 .clearfix {
-    clear: both;}
+    clear: both;
+  }
 
 .header {
     width: 100%;
@@ -51,16 +57,19 @@ body {
     width: 35%;
     float: left;
     text-align: center;
-    font-size: 35px;}
+    font-size: 35px;
+  }
 
 
 .navbar {
     width: 50%;
     float: left;
-    padding: 0px 50px;}
+    padding: 0px 50px;
+  }
 
 .navbar ul {
-    margin: 0;}
+    margin: 0;
+  }
 
 .navbar ul li {
     list-style: none;
@@ -82,21 +91,25 @@ body {
 	margin:0;
 }
 .navbar ul li:hover {
-    background: linear-gradient(to bottom, #333333 15%, #505050 50%, #333333 85%);}
+    background: linear-gradient(to bottom, #333333 15%, #505050 50%, #333333 85%);
+  }
 
 .latest {
     padding: 10px;
     font-size: 20px;
-    font-family: calibri;}
+    font-family: calibri;
+  }
 
 .latest .fa {
     vertical-align: bottom;
     padding: 0px 5px;
-    color: #3d8fe8;}
+    color: #3d8fe8;
+  }
 
 .animated a {
     text-decoration: none;
-    color: black;}
+    color: black;
+  }
 
 .movies_poster {
     width: 25%;
@@ -106,47 +119,58 @@ body {
     min-height: 230px;
     overflow: hidden;
     font-family: calibri;
-    background: #eee;}
+    background: #eee;
+  }
 
 .movie_title {
     border: 1px solid #ccc;
     padding: 20px 15px;
     text-align: center;
     font-size: 20px;
-    background: #fff;}
+    background: #fff;
+  }
 
 .movies_photo img {
     width: 100%;
     height: auto!important;
-    background-position: 100%;}
+    background-position: 100%;
+  }
 
 .latest h5{padding: 0px;
-    margin: 0px;}
+    margin: 0px;
+  }
 
 .content {
-    padding: 5px;}
+    padding: 5px;
+  }
 
 .movies_photo {
-    border-bottom: 3px solid #3d8fe8;}
+    border-bottom: 3px solid #3d8fe8;
+  }
 
 .footer_content {
     width: 50%;
-    float: left}
+    float: left
+  }
 
 .footer_content.right {
-    text-align: right}
+    text-align: right
+  }
 
 .footer {
     padding: 30px;
     color: white;
     background: linear-gradient(to bottom, #646464 0%, #0e0e0e 100%);
-    font-family: calibri;}
+    font-family: calibri;
+  }
 
 .movies_photo img:hover {
-    transform: scale(0.9);}
+    transform: scale(0.9);
+  }
 
 .movies_photo img {
-    transition: all .2s ease-in-out;}
+    transition: all .2s ease-in-out;
+  }
 
 .movies_photos img:hover {
     transform: scale(0.9);
@@ -203,7 +227,7 @@ body {
 }
 
 .nav {
-    display: none
+    display: none;
 }
 
 .nav ul li {
@@ -211,12 +235,12 @@ body {
     padding: 2px 10px;
     color: white;
     background: linear-gradient(to bottom, #646464 0%, #0e0e0e 100%);
-    font-family: calibri
+    font-family: calibri;
 }
 
 .nav ul {
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
 .nav a {
@@ -229,17 +253,6 @@ body {
     animation-duration: 5s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
-}
-
-.fadeInRight {
-    0% {
-        opacity: 0;
-
-    }
-    100% {
-        opacity: 1;
-
-    }
 }
 
 figure {
@@ -265,6 +278,18 @@ figcaption {
   opacity: .70;
 }
 
+.fadeInRight {
+    0% {
+        opacity: 0;
+    }
+
+    {
+    100%
+        opacity: 1;
+    }
+}
+
+
 @keyframes fadeInRight {
     0% {
         opacity: 0;
@@ -274,7 +299,8 @@ figcaption {
         opacity: 1;
         transform: translateX(0);
     }
-}
+  }
+
 
 .fadeInRight {
     -webkit-animation-name: fadeInRight;
@@ -290,7 +316,8 @@ figcaption {
         opacity: 1;
         -webkit-transform: translateX(0);
     }
-}
+  }
+
 
 @keyframes fadeInLeft {
     0% {
@@ -301,12 +328,14 @@ figcaption {
         opacity: 1;
         transform: translateX(0);
     }
-}
+  }
+
 
 .fadeInLeft {
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft;
 }
+
 .film_review{width:50%;float:left;padding:10px}
 
 .film_images{width:50%;float:right}
@@ -331,10 +360,12 @@ figcaption {
     .navbar {
         width: 20%;
         float: left;
-        padding: 0px 30px;}
+        padding: 0px 30px;
+      }
 
     .navbar ul {
-        margin: 0;}
+        margin: 0;
+      }
 
 
     .navbar ul li {
@@ -374,6 +405,6 @@ figcaption {
         width: 30%;
         float: left;
         text-align: left;
-        padding: 0px 25px
+        padding: 0px 25px;
     }
 }
