@@ -63,7 +63,7 @@ body {
 
 .navbar {
     width: 50%;
-    float: left;
+    float: right;
     padding: 0px 50px;
   }
 
@@ -227,7 +227,7 @@ body {
 }
 
 .nav {
-    display: none;
+    display: block;
 }
 
 .nav ul li {
