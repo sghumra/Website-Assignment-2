@@ -55,7 +55,7 @@ body {
 
 
 .navbar {
-    width: 50%;
+    width: 65%;
     float: right;
     padding: 0px 50px;}
 
@@ -67,8 +67,7 @@ body {
     float: left;
     padding: 10px 15px;
     color: white;
-    cursor: pointer;
-    margin: 0px 1px;
+    margin: 0px 2px;
     font-size: 20px;
 }
 
