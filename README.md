@@ -10,7 +10,6 @@ Initial plan of about page:
 ![Screenshot3](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 12.40.10.png)
 
 Site map for the website:
-
 ![Sitemap](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-19 at 17.01.17.png)
 
 For the prototypes of the website, Proto.io had been used.
@@ -39,13 +38,11 @@ Prototype of mobile about us page:
 
 ![Prototype of aboutus-mobile](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Prototypes/Screen Shot 2017-12-26 at 19.44.09.png)
 
-The website created is a movie review website thats layout and theme took inspiration from IMDB, following a yellow-black colour theme and similar layout. The development process for my website was more of an incremental process as I started the foundation of each website first then implemented a basic CSS to show how everything would layout. After, this I had implemented the design scheme I was going against, since my website was going to be a film review website. The main issue I had encountered was the resizing of the navigation bar when I had shrunk the window or using it on a smaller device the navigation bar would dsiappear. Also, the creating of the navigation bar was quite difficult as I tried to broaden my knowledge and attempt to implement the navigation bar in JavaScript, which seems to have worked. Media breakpoints were confusing to get my head around as I had difficulties trying to implement the correct sizes and keep the lining of the images above each other. At first there was no initial idea to have a separate page for user feedback, but then I thought it would be a good idea to have it as its own page, so the user can look through the website and then give feedback on it after. 
+The website created is a movie review website thats layout and theme took inspiration from IMDB, following a yellow-black colour theme and similar layout. The development process for my website was more of an incremental process as I started the foundation of each website first then implemented a basic CSS to show how everything would layout. After, this I had implemented the design scheme I was going against, since my website was going to be a film review website. The main issue I had encountered was the resizing of the navigation bar when I had shrunk the window or using it on a smaller device the navigation bar would dsiappear. Media breakpoints were confusing to get my head around as I had difficulties trying to implement the correct sizes and keep the lining of the images above each other. At first there was no initial idea to have a separate page for user feedback, but then I thought it would be a good idea to have it as its own page, so the user can look through the website and then give feedback on it after. 
 
 The issues that I had encountered had included trying to implement the '.active' feature in the CSS for the navigation bar, this feature was meant to be there for the purpose of the user knowing what page they are currently on. Another difficulty I had faced was after adding my 'feedback' page, the link for it had stayed underneath the others (see image below), and would not shift in-line with the others, it would only neaten up vertically when the window was shrunk. Also, when I had called in a Google Maps API, and had ran that page (about us) through the HTML validator, it had shown 1 error, this was to put all design attributes into the CSS rather than in the iFrame in the HTML document.
 
-From any page on the website, every other page is accessible via the navigation bar, there was an initial plan of removing the link of the navigation bar when the user clicks that particular button e.g. clicks 'description' page, so all the other links will show except that.
-
-In terms of accessibility, I had used 'alt' tags, this is because if the respective image did have any issues with loading then the description of the alt tag will show. Also, I had given contrast between the background and writing, this makes it easier to the read for the user.
+From any page on the website, every other page is accessible via the navigation bar, there was an initial plan of removing the link of the navigation bar when the user clicks that particular button e.g. clicks 'description' page, so all the other links will show except that. In terms of accessibility, I had used 'alt' tags, this is because if the respective image did have any issues with loading then the description of the alt tag will show. 
 
 All pages and stylesheets were manually inputted into the relevant validation website by W3C, this was done for CSS and HTML.
 
@@ -65,8 +62,12 @@ Validation of feedback page:
 
 ![Validation of feedback] (/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Validation/Screen Shot 2017-12-25 at 18.25.28.png)
 
-PARC? Each point, say how you applied it to website.
-
+Proximity
+Alignment
+Repition
+The positioning of the navigation, the font, and positon of the logo was repeated throughout all the pages. This is because if it changes around it can make the site less user friendly and cause confusion.
+Contrast 
+There was contrast between the background, images, and writing. This is important so there is no colour clash and giving difficulties when reading or viewing images. 
 
 I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below).
 
