@@ -90,6 +90,14 @@ body {
 	padding:0;
 	margin:0;
 }
+
+iframe {
+    width: 960px;
+    height: 450px;
+    frameborder: 0;
+    style="border:0;
+   }
+
 .navbar ul li:hover {
     background: linear-gradient(to bottom, #333333 15%, #505050 50%, #333333 85%);
   }
