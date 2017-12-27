@@ -68,15 +68,15 @@ Validation of feedback page:
 PARC? Each point, say how you applied it to website.
 
 
-I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings.
+I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below).
 
+CSS Validation:
 
-User testing?
+![CSS Validation](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Validation/Screen Shot 2017-12-27 at 16.25.09.png)
+
 For user testing, I had told the made a new page called 'Feedback' and within ths page I had called in a Typeform questionnaire I had created. I had shown the website to 20 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue I had found out was that the description page has images that have an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user the think it can be clicked, however it was just an ordinary picture with a figcaption. After this feedback, I had removed this effect. On the other hand, respondents had said that navigating through the website was easy and the navigation bar was not too confusing.
 
-
-
-Code snippet of effect:
+Code responsible for the effect:
 
 ![Code Snippet of effect](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Code snippets/Screen Shot 2017-12-23 at 15.40.04.png)
 
