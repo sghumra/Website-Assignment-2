@@ -79,7 +79,15 @@ CSS Validation:
 
 ![CSS Validation](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Validation/Screen Shot 2017-12-27 at 16.25.09.png)
 
-For user testing, I had made a new page called 'Feedback' and within this page I had called in a Typeform questionnaire. I had shown the website to 10 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue I had found out was that the description page has images that have an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user the think it can be clicked, however it was just an ordinary picture with a figcaption. After this feedback, I had removed this effect. On the other hand, respondents had said that navigating through the website was easy and the navigation bar was not too confusing.
+For user testing, I had made a new page called 'Feedback' and within this page I had called in a Typeform questionnaire. I had shown the website to 6 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue I had found out was that the description page has images that have an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user the think it can be clicked, however it was just an ordinary picture with a figcaption. After this feedback, I had removed this effect. On the other hand, respondents had said that navigating through the website was easy and the navigation bar was not too confusing.
+
+Part 1 of responses:
+
+![Part 1 of responses](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Feedback/Screen Shot 2017-12-28 at 18.01.08.png)
+
+Part 2 of responses:
+
+![Part 2 of responses] (/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Feedback/Screen Shot 2017-12-28 at 18.01.43.png)
 
 Code responsible for the effect:
 
