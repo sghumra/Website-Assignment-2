@@ -10,6 +10,7 @@ Initial plan of about page:
 ![Screenshot3](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 12.40.10.png)
 
 Site map for the website:
+
 ![Sitemap](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-19 at 17.01.17.png)
 
 For the prototypes of the website, Proto.io had been used.
@@ -62,6 +63,7 @@ Validation of feedback page:
 
 ![Validation of feedback] (/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Validation/Screen Shot 2017-12-25 at 18.25.28.png)
 
+PARC
 Proximity
 The way images and text were laid out had spacing between them and not everything was forced together or around each other.
 Alignment
@@ -70,6 +72,8 @@ Repition
 The positioning of the navigation, the font, and positon of the logo was repeated throughout all the pages. This is because if it changes around it can make the site less user friendly and cause confusion.
 Contrast 
 There was contrast between the background, images, and writing. This is important so there is no colour clash and giving difficulties when reading or viewing images. This relates to accessibility as it makes it easier to read especially for those who have visual impairments.
+
+IA - The navigation is very simplistic and pages are linked, every other page is accessible from one page. The logo is consistent in the same place and also when clicked takes the user back to the homepage.
 
 I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below).
 
