@@ -64,6 +64,7 @@ Validation of feedback page:
 
 Proximity
 Alignment
+The alignment of images had always stayed clean, neat, and consistent throughout the website, the alignment had changed only with the media breakpoints.
 Repition
 The positioning of the navigation, the font, and positon of the logo was repeated throughout all the pages. This is because if it changes around it can make the site less user friendly and cause confusion.
 Contrast 
