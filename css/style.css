@@ -50,7 +50,7 @@ body {
     background: linear-gradient(to bottom, #646464 0%, #0e0e0e 100%);
     overflow: hidden;
     font-family: calibri;
-	    padding: 22px 10px;
+	   padding: 22px 10px;
 	}
 
 .logo {
@@ -60,12 +60,11 @@ body {
     font-size: 35px;
   }
 
-
 .navbar {
     width: 65%;
     float: right;
     padding: 0px 50px;
-    display: block;
+    
   }
 
 .navbar ul {
@@ -227,10 +226,6 @@ iframe {
     background: #fff
 }
 
-.nav {
-    display: block;
-}
-
 .nav ul li {
     list-style: none;
     padding: 2px 10px;
@@ -247,6 +242,7 @@ iframe {
 .nav a {
     text-decoration: none;
     color: white;
+    display: block;
 }
 
 .animated {

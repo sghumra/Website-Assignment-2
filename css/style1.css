@@ -58,7 +58,6 @@ body {
     width: 65%;
     float: right;
     padding: 0px 50px;
-    display: block;
   }
 
 .navbar ul {
@@ -74,23 +73,9 @@ body {
     font-size: 20px;
 }
 
-.about_us h4 {
-	padding:0;
-	margin:0;
-}
 .navbar ul li:hover {
   background: #f5da2f;
 }
-
-.latest {
-    padding: 10px;
-    font-size: 20px;
-    font-family: calibri;}
-
-.latest .fa {
-    vertical-align: bottom;
-    padding: 0px 5px;
-    color: #3d8fe8;}
 
 .animated a {
     text-decoration: none;
@@ -118,8 +103,6 @@ body {
     height: auto!important;
     background-position: 100%;}
 
-.latest h5{padding: 0px;
-    margin: 0px;}
 
 .content {
     padding: 5px;}
@@ -139,25 +122,6 @@ body {
     color: white;
     background: linear-gradient(to bottom, #646464 0%, #0e0e0e 100%);
     font-family: calibri;}
-
-.about_us {
-    text-align: center;
-    background: #3d8fe8;
-    padding: 10px;
-    font-size: 25px;
-    color: white
-}
-
-.about_us_detail {
-    padding: 20px;
-    line-height: 20px
-}
-
-.about_content {
-    background: #fff;
-    font-family: calibri;
-	min-height:457px;
-}
 
 .header_top .fa {
     display: none;
@@ -184,10 +148,6 @@ body {
 
 .bg_color {
     background: #fff
-}
-
-.nav {
-    display: none
 }
 
 .nav ul li {
