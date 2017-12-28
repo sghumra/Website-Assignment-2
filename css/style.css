@@ -394,6 +394,11 @@ figcaption {
         padding: 0px 25px
     }
 
+    iframe {
+        width: 400px;
+        height: 250px;
+       }
+
 	.header_top{height:34px}
 
 	.film_review{width:100%;float:none;}
