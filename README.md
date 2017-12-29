@@ -1,4 +1,4 @@
-# Write Up
+# Front-End Movies
 
 Initial plan of homepage:
 ![Screenshot1](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 11.54.40.png)
@@ -9,9 +9,9 @@ Initial plan of description page:
 Initial plan of about page:
 ![Screenshot3](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 12.40.10.png)
 
-Site map for the website:
+Updated site map for the website:
 
-![Sitemap](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-19 at 17.01.17.png)
+![Sitemap](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-12-29 at 16.36.37.png)
 
 For the prototypes of the website, Proto.io had been used.
 
@@ -39,9 +39,9 @@ Prototype of mobile about us page:
 
 ![Prototype of aboutus-mobile](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Prototypes/Screen Shot 2017-12-26 at 19.44.09.png)
 
-The website created is a movie review website thats layout and theme took inspiration from IMDB, following a yellow-black colour theme and similar layout.  The issues that I had encountered had included trying to implement the '.active' feature in the CSS for the navigation bar, this feature was meant to be there for the purpose of the user knowing what page they are currently on. Also, when I had called in a Google Maps API, and had ran that page (about us) through the HTML validator, it had shown 1 error, this was to put all design attributes into the CSS rather than in the iFrame in the HTML document.
+The website created is a movie review website thats layout and theme took inspiration from IMDB, following a yellow-black colour theme and similar layout.  The issues that had been encountered had included trying to implement the '.active' feature in the CSS for the navigation bar, this feature was meant to be there for the purpose of the user knowing what page they are currently on. Also, when a Google Maps API had been called in, and had ran that page (about us) through the HTML validator, it had shown 1 error, this was to put all design attributes into the CSS rather than in the iFrame in the HTML document.
 
-In terms of accessibility, I had used 'alt' tags, this is because if the respective image did have any issues with loading then the description of the alt tag will show and also kept good contrast between background, images, and text.
+In terms of accessibility, 'alt' tags were used, this is because if the respective image did have any issues with loading then the description of the alt tag will show and also kept good contrast between background, images, and text.
 
 All pages and stylesheets were manually inputted into the relevant validation website by W3C, this was done for CSS and HTML.
 
@@ -73,13 +73,13 @@ There was contrast between the background, images, and writing. This is importan
 
 IA - The navigation is very simplistic and pages are linked, every other page is accessible from one page. The logo is consistent in the same place and also when clicked takes the user back to the homepage.
 
-I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below). These errors and warnings typically appear due to the differences in browser compatabilities.
+JavaScript was applied within the navigation bar, after research it was found that a navigation bar could be implemented using JavaScript. For CSS, the use of @keyframes and webkits were present to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below). These errors and warnings typically appear due to the differences in browser compatabilities.
 
 CSS Validation:
 
 ![CSS Validation](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Validation/Screen Shot 2017-12-27 at 16.25.09.png)
 
-For user testing, I had made a new page called 'Feedback' and within this page I had called in a Typeform questionnaire. I had shown the website to 6 people, and at the end of the browsing period I had told them to click the feedback link where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue I had found out was that the description page has images that have an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user the think it can be clicked, however it was just an ordinary picture with a figcaption. After this feedback, I had removed this effect. On the other hand, respondents had said that navigating through the website was easy and the navigation bar was not too confusing.
+For user testing, a new page was created called 'Feedback' and within this page a Typeform questionnaire was called in. The website was shown to 6 people, and at the end of the browsing period they were told to click the 'feedback' button where the questionnaire would initiate. The questionnaire consisted of questions about navigation, layout, and accessibility. From the user feedback, the main issue that was found was that the description page had images that had an 'ease in' effect, so when the user hovers over the image, the image would push back slightly making the user think it is interactable, however it was just an ordinary picture with a figcaption. After this feedback, the effect was removed. On the other hand, respondents had said that navigating through the website was easy and the navigation bar was not too confusing.
 
 Part 1 of responses:
 
