@@ -1,7 +1,7 @@
 # Front-End Movies
 
 Initial plan of homepage:
-![Screenshot1](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 11.54.40.png)
+![Screenshot1](/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 11.54.40.png)
 
 Initial plan of description page:
 ![Screenshot2](/Users/suhaylghumra/Desktop/Final Year Uni/Front-end Web Development/HTML/Assignment/Front-End/Design + Wireframes/Screen Shot 2017-11-29 at 12.11.26.png)
