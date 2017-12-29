@@ -73,7 +73,7 @@ There was contrast between the background, images, and writing. This is importan
 
 IA - The navigation is very simplistic and pages are linked, every other page is accessible from one page. The logo is consistent in the same place and also when clicked takes the user back to the homepage.
 
-I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below).
+I had applied JavaScript differently than I would have usually, after research I had found that a navigation bar could be implemented using JavaScript. For CSS, I had used @keyframes and webkits to give the images on the homepage transitions, however, the @keyframes related to  .fadeInRight and .fadeInLeft had displayed parse errors and the webkits had displayed as warnings (see below). These errors and warnings typically appear due to the differences in browser compatabilities.
 
 CSS Validation:
 
