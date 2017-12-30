@@ -4,7 +4,7 @@ Initial plan of homepage:
 ![Screenshot1](Screen Shot 2017-11-29 at 11.54.40.png)
 
 Initial plan of description page:
-![Screenshot2](Design + Wireframes/Screen Shot 2017-11-29 at 12.11.26.png)
+![Screenshot2](Screen Shot 2017-11-29 at 12.11.26.png)
 
 Initial plan of about page:
 ![Screenshot3](Design + Wireframes/Screen Shot 2017-11-29 at 12.40.10.png)
