@@ -47,19 +47,19 @@ All pages and stylesheets were manually inputted into the relevant validation we
 
 Validation of homepage:
 
-![Validation of homepage] (Validation/Homepagevalid.png)
+![Validation of homepage] (Validation/Homepage.png)
 
 Validation of description page:
 
-![Validation of description page] (Validation/Descvalid.png)
+![Validation of description page] (Validation/Desc.png)
 
 Validation of about us page:
 
-![Validation of about us page] (Validation/Aboutvalid.png)
+![Validation of about us page] (Validation/About.png)
 
 Validation of feedback page:
 
-![Validation of feedback] (Validation/Feedbackvalid.png)
+![Validation of feedback] (Validation/Feedback.png)
 
 PARC
 Proximity
@@ -87,7 +87,7 @@ Part 1 of responses:
 
 Part 2 of responses:
 
-![Part 2 of responses] (Feedback/Feedback2.png)
+![Part 2 of responses] (Feedback/Feedback.png)
 
 Code responsible for the effect:
 
